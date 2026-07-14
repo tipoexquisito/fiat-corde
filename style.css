@@ -1,0 +1,8 @@
+/* Belt-and-suspenders alongside setup/shortcuts.ts: the "Slides Overview" panel
+   has been getting stuck open with a broken layout in production. The keyboard
+   shortcuts that open it are disabled in setup/shortcuts.ts; this also hides the
+   toolbar icon that can open it via click, so a stray click during a live talk
+   can't trigger it either. */
+[title="Show slide overview"] {
+  display: none !important;
+}
