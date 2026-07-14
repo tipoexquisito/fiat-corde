@@ -1,5 +1,7 @@
 ---
 theme: default
+title: Fiat Corde
+titleTemplate: '%s'
 colorSchema: dark
 fonts:
   serif: 'Cormorant Garamond'
