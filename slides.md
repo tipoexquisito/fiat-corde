@@ -148,7 +148,6 @@ layout: two-cols
 layoutClass: gap-10 items-center
 ---
 
-::left::
 <img src="./goya/goya-2-maio.jpg" class="h-full object-contain" />
 
 ::right::
@@ -364,7 +363,6 @@ layout: two-cols
 layoutClass: gap-10 items-center
 ---
 
-::left::
 <i class="text-4xl font-serif">"Não estava à espera que <br>a visita fosse tão política."</i>
 
 ::right::
