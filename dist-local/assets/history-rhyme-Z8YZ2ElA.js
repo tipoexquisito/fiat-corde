@@ -1,0 +1,1 @@
+var e=`/assets/history-rhyme-CsyDI1RQ.jpeg`;export{e as t};
